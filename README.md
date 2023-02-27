@@ -1,6 +1,3 @@
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow]()
-
 # Sentiment Analysis on Twitter using Differential Privacy
  
 ## Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140 
