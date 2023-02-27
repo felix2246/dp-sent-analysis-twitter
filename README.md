@@ -1,5 +1,11 @@
 # Sentiment Analysis on Twitter using Differential Privacy
  
+## Environment:
+
+- Python 3.9.5
+- RAM: 16GB and 32GB
+- GPU: NVIDIA GeForce RTX 2070 and NVIDIA Tesla V100
+ 
 ## Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140 
 
 - ```notebooks/baseline``` contains non-private Sentiment Analysis
