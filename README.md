@@ -18,6 +18,7 @@
 
 - download dataset (test- and train dataset) from https://www.kaggle.com/datasets/kazanova/sentiment140
 - you might have to change encoding of the datasets to UTF-8 
+- create an empty folder called ```data``` in ```notebooks/preprocessing```
 - run ```notebooks/preprocessing/remove_tweets.pynb``` (set TRAINDATA_PATH to the filepath of the downloaded train dataset). This creates the file ```train_tweets_removed.csv``` in ```notebooks/preprocessing/data```
 - run ```notebooks/preprocessing/all-preprocessing.ipynb``` (set TESTDATA_PATH to the filepath of the downloaded test dataset)
 - run the desired experiments on the preprocessed datasets (they will be saved in ```notebooks/preprocessing/data/csv_rows```, so you might want to change the FILES_DIRECTORY variable leading towards the folder ```csv_rows```)
